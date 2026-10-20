@@ -10,13 +10,13 @@ config_version=5
 
 [application]
 
-config/name="godot_template-v2"
+config/name="Scrum_Team8"
 config/features=PackedStringArray("4.7", "Forward Plus")
 
 [display]
 
 window/size/viewport_width=800
-window/size/viewport_height=400
+window/size/viewport_height=450
 window/stretch/mode="canvas_items"
 window/stretch/aspect="expand"
 
