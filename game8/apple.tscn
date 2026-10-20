@@ -8,6 +8,7 @@
 radius = 22.803509
 
 [node name="APPLE" unique_id=1239789849 instance=ExtResource("1_whgpf")]
+position = Vector2(230, 137)
 script = ExtResource("2_xniv1")
 
 [node name="Sprite2D" parent="." index="0" unique_id=712688549]
